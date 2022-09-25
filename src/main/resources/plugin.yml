@@ -1,0 +1,9 @@
+name: TechCode-BroadCast
+version: '${project.version}'
+main: store.techcode.Main
+api-version: 1.16
+authors: [ TechCode ]
+website: techcode.store
+commands:
+  broadcast:
+    aliases: [bc, alert]
